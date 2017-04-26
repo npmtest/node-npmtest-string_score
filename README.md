@@ -1,6 +1,6 @@
 # npmtest-string_score
 
-#### test coverage for  [string_score (v0.1.22)](https://github.com/joshaven/string_score)  [![npm package](https://img.shields.io/npm/v/npmtest-string_score.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string_score) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string_score.svg)](https://travis-ci.org/npmtest/node-npmtest-string_score)
+#### basic test coverage for  [string_score (v0.1.22)](https://github.com/joshaven/string_score)  [![npm package](https://img.shields.io/npm/v/npmtest-string_score.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string_score) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string_score.svg)](https://travis-ci.org/npmtest/node-npmtest-string_score)
 
 #### String Scoring Algorithm packaged for NodeJS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-string_score/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-string_score/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-string_score/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-string_score/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-string_score/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-string_score/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-string_score/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-string_score/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-string_score/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-string_score/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-string_score/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-string_score/build/coverage.html/index.html)
 
@@ -73,7 +73,8 @@
         "url": "git://github.com/joshaven/string_score.git"
     },
     "scripts": {},
-    "version": "0.1.22"
+    "version": "0.1.22",
+    "bin": {}
 }
 ```
 
